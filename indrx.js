@@ -1,7 +1,7 @@
 let minut = 1,
   timden,
   timm = minut * 60;
-let time = 1500;
+let time = 1000;
 let winn = 0;
 let titr = document.getElementsByTagName("span");
 let bloksCelictor = document.querySelector(".game");
