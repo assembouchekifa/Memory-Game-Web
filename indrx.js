@@ -67,7 +67,7 @@ function chekblok(firsBlock, secandBlock) {
   }
 }
 bloksCelictor.addEventListener("click", () => {
-  if (titr[0].innerHTML === "Memory Game Assem click to start") {
+  if (titr[0].innerHTML === "Memory Game") {
     firsmemory();
     timden = setInterval(() => {
       timer();
